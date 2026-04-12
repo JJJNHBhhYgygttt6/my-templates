@@ -63,10 +63,20 @@
   },
   {
     "id": "tpl_1775997955585",
-    "label": "📦 Новий шаблон",
+    "label": "📦 аівпварва",
     "title": "",
     "description": "",
     "price": "",
-    "photos": []
+    "photos": [],
+    "condition": "",
+    "connectionType": "",
+    "subcategory": "",
+    "brand": "",
+    "weight": "",
+    "seller": "",
+    "location": "",
+    "contactName": "",
+    "phoneMode": "",
+    "phone": ""
   }
 ]
