@@ -45,10 +45,20 @@
   },
   {
     "id": "tpl_1775997031775",
-    "label": "📦 Новий шаблон",
+    "label": "📦 атак шарк",
     "title": "",
     "description": "",
     "price": "",
-    "photos": []
+    "photos": [],
+    "condition": "",
+    "connectionType": "",
+    "subcategory": "",
+    "brand": "",
+    "weight": "",
+    "seller": "",
+    "location": "",
+    "contactName": "",
+    "phoneMode": "",
+    "phone": ""
   }
 ]
